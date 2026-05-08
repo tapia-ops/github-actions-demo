@@ -2,8 +2,8 @@ name: Hello World Workflow
 on: [push]
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      -name: Say Hello
-      run: echo "Hello, World"
+ build:
+  runs-on: ubuntu-latest
+  steps:
+   - name: Say Hello
+     run: echo "Hello, World"
