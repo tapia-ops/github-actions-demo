@@ -1,4 +1,4 @@
-# GIthub Actions Learning Lab
+# Github Actions Learning Lab
 
 This repository serves as a personal laboratory for learning GitHub Actions
 
