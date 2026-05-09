@@ -1,1 +1,1 @@
-console.log('Hello, GIthub Actions!');
+ console.log('Hello, Github Actions!');
