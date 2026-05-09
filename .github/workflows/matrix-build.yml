@@ -20,8 +20,8 @@ jobs:
      run: npm install
    - name: Build project
      run:
-     mkdir dist
-     echo "This is the build artifact" > dist/build.txt
+      mkdir dist
+      echo "This is the build artifact" > dist/build.txt
    - name: Run tests
      run: npm test
    - name: Upload build artifact
