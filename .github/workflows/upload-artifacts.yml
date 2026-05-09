@@ -1,6 +1,6 @@
 name: Upload Artifacts
 
-on: [puhs]
+on: [push]
 
 jobs:
  build:
